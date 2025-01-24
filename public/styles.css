@@ -4,9 +4,11 @@
       flex-direction: column;
     }
     .project-image  {
-      margin-left:40px;
       max-width: 400px ;
       max-height:250px;/* Adjust for smaller screens */
+  }
+    .image-wrapper{
+    padding-left:20px;
   }
     .project-content {
       padding: 15px;
@@ -31,9 +33,11 @@
       font-size: 1.2rem;
     }
     .project-image  {
-       margin-left:40px;
-      max-width: 300px ;
+      max-width: 280px ;
       max-height:200px;/* Adjust for smaller screens */
+  }
+    .image-wrapper{
+    padding-left:20px;
   }
   
     .project-content p {
