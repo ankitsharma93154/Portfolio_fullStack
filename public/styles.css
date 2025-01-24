@@ -4,6 +4,7 @@
       flex-direction: column;
     }
     .project-image  {
+      margin-left:40px;
       max-width: 400px ;
       max-height:250px;/* Adjust for smaller screens */
   }
@@ -30,6 +31,7 @@
       font-size: 1.2rem;
     }
     .project-image  {
+       margin-left:40px;
       max-width: 300px ;
       max-height:200px;/* Adjust for smaller screens */
   }
