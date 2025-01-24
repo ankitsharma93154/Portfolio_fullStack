@@ -33,8 +33,8 @@
       font-size: 1.2rem;
     }
     .project-image  {
-      max-width: 250px ;
-      max-height:200px;/* Adjust for smaller screens */
+      max-width: 200px ;
+      max-height:180px;/* Adjust for smaller screens */
   }
     .image-wrapper{
     padding-left:20px;
